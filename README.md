@@ -42,7 +42,7 @@ This project helps reduce manual effort, waiting time, and congestion in parking
 ---
 
 ### 🧑‍💻 Developer  
-**Mohd Azim I**  
+**Mohd Azim I(Author) & Team**  
 🎓 Graduate Computer Science Engineering(2025) 
 💻 Passionate about Embedded Systems, IoT & Full Stack Java Development   
 
