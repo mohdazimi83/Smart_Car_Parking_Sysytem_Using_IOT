@@ -8,7 +8,7 @@ This project helps reduce manual effort, waiting time, and congestion in parking
 
 ### 🧠 Tech Stack  
 - **Hardware:** Arduino UNO, IR Sensors, 16x2 LCD, PCF8574 I2C Module  
-- **Software:** Arduino IDE, Proteus 8 Professional  
+- **Software:** Arduino IDE, Proteus 8 Professional   
 - **Programming:** Embedded C++ / Arduino  
 
 ---
