@@ -35,6 +35,11 @@ This project helps reduce manual effort, waiting time, and congestion in parking
 
 
 ---
+### 📸 Simulation Image
+![IMG_9711](https://github.com/user-attachments/assets/ea00c070-719d-4e2c-950e-572ba304b253)
+![Simulation Process](https://github.com/user-attachments/assets/78149fdf-2e93-460e-948d-f2b3cad6e92f)
+
+---
 
 ### 🧑‍💻 Developer  
 **Mohd Azim I**  
